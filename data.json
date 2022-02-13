@@ -1,0 +1,573 @@
+[{
+	"match": {
+		"date": "February 13, 2022, 1:00 am",
+		"eid": "WUhwbDdzUEM=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "1:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Charlotte Hornets - Memphis Grizzlies",
+		"url": "/basketball/usa/nba/charlotte-hornets-memphis-grizzlies-WUhwbDdzUEM="
+	},
+	"odds": [{
+		"local": {
+			"avg": 3.3,
+			"max": 3.58
+		},
+		"visitor": {
+			"avg": 1.34,
+			"max": 1.4
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 1:00 am",
+		"eid": "bmFpMEViV3U=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "1:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "New Orleans Pelicans - San Antonio Spurs",
+		"url": "/basketball/usa/nba/new-orleans-pelicans-san-antonio-spurs-bmFpMEViV3U="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.4,
+			"max": 1.47
+		},
+		"visitor": {
+			"avg": 2.99,
+			"max": 3.2
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 1:00 am",
+		"eid": "bkxsaDYxdko=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "1:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Washington Wizards - Sacramento Kings",
+		"url": "/basketball/usa/nba/washington-wizards-sacramento-kings-bkxsaDYxdko="
+	},
+	"odds": [{
+		"local": {
+			"avg": 2.24,
+			"max": 2.44
+		},
+		"visitor": {
+			"avg": 1.67,
+			"max": 1.73
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 1:30 am",
+		"eid": "UWtqNERJb24=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "1:30 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Philadelphia 76ers - Cleveland Cavaliers",
+		"url": "/basketball/usa/nba/philadelphia-76ers-cleveland-cavaliers-UWtqNERJb24="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.69,
+			"max": 1.75
+		},
+		"visitor": {
+			"avg": 2.2,
+			"max": 2.4
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 1:30 am",
+		"eid": "dEVueml2aGI=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "1:30 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Toronto Raptors - Denver Nuggets",
+		"url": "/basketball/usa/nba/toronto-raptors-denver-nuggets-dEVueml2aGI="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.46,
+			"max": 1.58
+		},
+		"visitor": {
+			"avg": 2.74,
+			"max": 2.91
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 2:00 am",
+		"eid": "YkgzQkJkR2I=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "2:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Chicago Bulls - Oklahoma City Thunder",
+		"url": "/basketball/usa/nba/chicago-bulls-oklahoma-city-thunder-YkgzQkJkR2I="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.17,
+			"max": 1.21
+		},
+		"visitor": {
+			"avg": 5.27,
+			"max": 6.6
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 2:00 am",
+		"eid": "S1E0N0N4MWg=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "2:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Miami Heat - Brooklyn Nets",
+		"url": "/basketball/usa/nba/miami-heat-brooklyn-nets-S1E0N0N4MWg="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.14,
+			"max": 1.19
+		},
+		"visitor": {
+			"avg": 5.78,
+			"max": 6.6
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 2:30 am",
+		"eid": "dHRnR0FHVjQ=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "2:30 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Dallas Mavericks - Los Angeles Clippers",
+		"url": "/basketball/usa/nba/dallas-mavericks-los-angeles-clippers-dHRnR0FHVjQ="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.36,
+			"max": 1.4
+		},
+		"visitor": {
+			"avg": 3.21,
+			"max": 3.4
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 2:30 am",
+		"eid": "ZnFjSzl6b0I=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "2:30 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Golden State Warriors - Los Angeles Lakers",
+		"url": "/basketball/usa/nba/golden-state-warriors-los-angeles-lakers-ZnFjSzl6b0I="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.37,
+			"max": 1.43
+		},
+		"visitor": {
+			"avg": 3.15,
+			"max": 3.52
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 3:00 am",
+		"eid": "bDZkTzhmMEg=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "3:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Phoenix Suns - Orlando Magic",
+		"url": "/basketball/usa/nba/phoenix-suns-orlando-magic-bDZkTzhmMEg="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.05,
+			"max": 1.07
+		},
+		"visitor": {
+			"avg": 11.24,
+			"max": 13
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 20:00 pm",
+		"eid": "U2RlUzdFRk4=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "20:00 pm",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Boston Celtics - Atlanta Hawks",
+		"url": "/basketball/usa/nba/boston-celtics-atlanta-hawks-U2RlUzdFRk4="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.33,
+			"max": 1.38
+		},
+		"visitor": {
+			"avg": 3.39,
+			"max": 3.75
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 13, 2022, 21:00 pm",
+		"eid": "cFlrWDZZVVQ=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 13",
+		"hour": "21:00 pm",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Indiana Pacers - Minnesota Timberwolves",
+		"url": "/basketball/usa/nba/indiana-pacers-minnesota-timberwolves-cFlrWDZZVVQ="
+	},
+	"odds": [{
+		"local": {
+			"avg": 3.48,
+			"max": 3.7
+		},
+		"visitor": {
+			"avg": 1.31,
+			"max": 1.39
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 1:00 am",
+		"eid": "bnN4YTJod28=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "1:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Washington Wizards - Detroit Pistons",
+		"url": "/basketball/usa/nba/washington-wizards-detroit-pistons-bnN4YTJod28="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.53,
+			"max": 1.6
+		},
+		"visitor": {
+			"avg": 2.49,
+			"max": 2.61
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 1:30 am",
+		"eid": "MHBRdFJ5R28=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "1:30 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Brooklyn Nets - Sacramento Kings",
+		"url": "/basketball/usa/nba/brooklyn-nets-sacramento-kings-MHBRdFJ5R28="
+	},
+	"odds": [{
+		"local": {
+			"avg": 2.47,
+			"max": 2.63
+		},
+		"visitor": {
+			"avg": 1.54,
+			"max": 1.61
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 1:30 am",
+		"eid": "Q0tUcFFlVmk=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "1:30 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "New York Knicks - Oklahoma City Thunder",
+		"url": "/basketball/usa/nba/new-york-knicks-oklahoma-city-thunder-Q0tUcFFlVmk="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.26,
+			"max": 1.3
+		},
+		"visitor": {
+			"avg": 3.85,
+			"max": 4.24
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 2:00 am",
+		"eid": "ZnFKa1BGcGI=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "2:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Chicago Bulls - San Antonio Spurs",
+		"url": "/basketball/usa/nba/chicago-bulls-san-antonio-spurs-ZnFKa1BGcGI="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.51,
+			"max": 1.56
+		},
+		"visitor": {
+			"avg": 2.59,
+			"max": 2.72
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 2:00 am",
+		"eid": "WVpIZ09aYTQ=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "2:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Milwaukee Bucks - Portland Trail Blazers",
+		"url": "/basketball/usa/nba/milwaukee-bucks-portland-trail-blazers-WVpIZ09aYTQ="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.07,
+			"max": 1.1
+		},
+		"visitor": {
+			"avg": 8.7,
+			"max": 10.5
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 2:00 am",
+		"eid": "SzRvdmpiNzQ=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "2:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "New Orleans Pelicans - Toronto Raptors",
+		"url": "/basketball/usa/nba/new-orleans-pelicans-toronto-raptors-SzRvdmpiNzQ="
+	},
+	"odds": [{
+		"local": {
+			"avg": 2.37,
+			"max": 2.6
+		},
+		"visitor": {
+			"avg": 1.6,
+			"max": 1.65
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 3:00 am",
+		"eid": "MjlNY05nRkE=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "3:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Denver Nuggets - Orlando Magic",
+		"url": "/basketball/usa/nba/denver-nuggets-orlando-magic-MjlNY05nRkE="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.15,
+			"max": 1.19
+		},
+		"visitor": {
+			"avg": 5.64,
+			"max": 6
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 3:00 am",
+		"eid": "dDBMMU1EVUc=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "3:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Utah Jazz - Houston Rockets",
+		"url": "/basketball/usa/nba/utah-jazz-houston-rockets-dDBMMU1EVUc="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.09,
+			"max": 1.11
+		},
+		"visitor": {
+			"avg": 7.67,
+			"max": 9.7
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 15, 2022, 4:30 am",
+		"eid": "T09BNkxYcU4=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 15",
+		"hour": "4:30 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Los Angeles Clippers - Golden State Warriors",
+		"url": "/basketball/usa/nba/los-angeles-clippers-golden-state-warriors-T09BNkxYcU4="
+	},
+	"odds": [{
+		"local": {
+			"avg": 2.93,
+			"max": 3.1
+		},
+		"visitor": {
+			"avg": 1.41,
+			"max": 1.48
+		}
+	}]
+}, {
+	"match": {
+		"date": "February 21, 2022, 2:00 am",
+		"eid": "aDQ4ZXBPM2E=",
+		"country": "usa",
+		"sport": "basketball",
+		"league": "NBA",
+		"timezone": "GMT+1",
+		"day": "February 21",
+		"hour": "2:00 am",
+		"year": "2022",
+		"tournament_url": "/basketball/usa/nba",
+		"status": "false",
+		"match": "Team LeBron - Team Durant",
+		"url": "/basketball/usa/nba/team-lebron-team-durant-aDQ4ZXBPM2E="
+	},
+	"odds": [{
+		"local": {
+			"avg": 1.4,
+			"max": 1.45
+		},
+		"visitor": {
+			"avg": 2.83,
+			"max": 3.02
+		}
+	}]
+}]
